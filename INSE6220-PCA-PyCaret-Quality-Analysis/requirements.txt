@@ -1,0 +1,8 @@
+pycaret[full]
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+shap
+openpyxl
